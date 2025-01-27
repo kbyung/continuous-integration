@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+# using CI!
 def factorial(n):
     '''
     Returns the product of all numbers from 1 to n.
